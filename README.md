@@ -80,18 +80,18 @@ Red & Green LEDs
 
 Breadboard + Jumper wires
 
-🔧 Circuit Connections
-Component	Arduino Pin
-RC522 SDA (SS)	D10
-RC522 RST	D9
-RC522 MOSI	D11
-RC522 MISO	D12
-RC522 SCK	D13
-Buzzer	D3
-Green LED	D4
-Red LED	D5
-LCD (I2C) SDA	A4
-LCD (I2C) SCL	A5
+# Circuit Connections
+### Component	Arduino Pin
+### RC522 SDA (SS)	D10
+### RC522 RST	D9
+### RC522 MOSI	D11
+### RC522 MISO	D12
+### RC522 SCK	D13
+### Buzzer	D3
+### Green LED	D4
+### Red LED	D5
+### LCD (I2C) SDA	A4
+### LCD (I2C) SCL	A5
 
 
 🔮 Future Improvements
