@@ -1,11 +1,11 @@
-RFID-Based Smart Access and Inventory System
-📝 About the Project
+## RFID-Based Smart Access and Inventory System
+### 📝 About the Project
 
 The RFID-Based Smart Access and Inventory System is a microcontroller-based prototype that combines authentication and inventory management into a single solution. Using an Arduino Uno and an RFID reader (RC522), the system reads RFID tags/cards and makes decisions based on predefined access rights or inventory status.
 
 This project was developed to demonstrate how IoT and embedded systems can improve security, automation, and data accuracy in real-life applications. It is an entry-level project but can be scaled into industrial or IoT-based solutions.
 
-📖 Project Information
+### 📖 Project Information
 🔹 Objectives
 
 To implement RFID-based authentication for secure access control.
@@ -92,13 +92,7 @@ Green LED	D4
 Red LED	D5
 LCD (I2C) SDA	A4
 LCD (I2C) SCL	A5
-📂 Project Structure
-RFID-Access-Inventory/
-│── code/
-│   └── rfid_access_inventory.ino     # Arduino source code
-│── docs/
-│   └── circuit_diagram.png           # Circuit diagram image
-│── README.md                         # Project documentation
+
 
 🔮 Future Improvements
 
